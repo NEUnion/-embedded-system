@@ -1,0 +1,2 @@
+Dependencies for Project 'arm2131', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x43D44D0E)(--device DARMP -g --apcs=interwork -I "C:\Keil\ARM\INC\Philips" --list "Startup.lst" --xref -o Startup.o)
